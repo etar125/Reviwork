@@ -1,0 +1,6 @@
+C:\Users\codaaj\Documents\SharpDevelop Projects\reviwork\reviwork\bin\Debug\reviwork.exe.config
+C:\Users\codaaj\Documents\SharpDevelop Projects\reviwork\reviwork\bin\Debug\reviwork.exe
+C:\Users\codaaj\Documents\SharpDevelop Projects\reviwork\reviwork\bin\Debug\reviwork.pdb
+C:\Users\codaaj\Documents\SharpDevelop Projects\reviwork\reviwork\obj\Debug\reviwork.csprojResolveAssemblyReference.cache
+C:\Users\codaaj\Documents\SharpDevelop Projects\reviwork\reviwork\obj\Debug\reviwork.exe
+C:\Users\codaaj\Documents\SharpDevelop Projects\reviwork\reviwork\obj\Debug\reviwork.pdb
