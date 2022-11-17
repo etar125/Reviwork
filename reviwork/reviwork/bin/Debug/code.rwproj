@@ -1,12 +1,11 @@
 sysoff;
 title:TestOS;
-color:0a;
 sc;
 void:x;
-readln:str=$ ;
+readln:bash$: ;
 ifg:str=info:inf;
 go:x;
 void:inf;
-writeln:Created on ReviWork 1.0 in UAS;;
-writeln:By codaaj(UAS creator);;
+writeln:Created on ReviWork (Reversi Worker);;
+writeln:By Leva;;
 go:x;
